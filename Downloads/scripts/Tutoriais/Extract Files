@@ -1,3 +1,0 @@
-sudo tar -xJf file_name.tar.xz
-sudo tar zxvf file_name.tar.gz
-
